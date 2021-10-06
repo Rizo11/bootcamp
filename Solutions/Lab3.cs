@@ -6,9 +6,10 @@ namespace bootcamp.Solutions
     {
         public void problem1()
         {
-            Console.WriteLine(">>>");
-            var c = (char)int.Parse(Console.ReadLine());
-            Console.WriteLine(c);
+            Console.WriteLine("Sonni kiriting:");
+            var c = int.Parse(Console.ReadLine());
+            Console.WriteLine($"Natija (int):{c}\nNatija (char): {(char)c}");
+
         }
 
         public void problem2()
