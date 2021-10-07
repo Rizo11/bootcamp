@@ -9,8 +9,10 @@ namespace bootcamp
             // var lab3Instance = new Lab3();
             // lab3Instance.problem1();
 
-            var lab3Instance = new Lab5();
-            lab3Instance.problem21();
+            // var lab5Instance = new Lab5();
+            // lab3Instance.problem21();
+            var lab6Instance = new Lab6();
+            lab6Instance.problem22();
         }
     }
 }
